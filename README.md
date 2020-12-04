@@ -1,2 +1,2 @@
 # JScript
- Projetos JavaScript
+ _*Projetos JavaScript*_ :vulcan_salute:
